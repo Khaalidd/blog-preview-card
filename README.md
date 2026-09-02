@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ([https://your-live-site-url.com](https://khaalidd.github.io/blog-preview-card/))
+- Live Site URL: ([Click](https://khaalidd.github.io/blog-preview-card/))
 
 ## My Process
 
