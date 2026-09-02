@@ -29,6 +29,8 @@ body {
     display: flex;
     flex-direction: column;
     box-shadow: 10px 10px 0px 0px black;
+    max-width: 384px;
+    max-height: 522px;
 }
 
 .container img {
@@ -42,26 +44,29 @@ body {
     padding: 8px 16px;
     border-radius: 5px;
     font-size: 0.75rem;
-    margin: 1.5rem 0 1rem 0;
+    margin: 1.5rem 0 0.8rem 0;
 }
 
 .container h3 {
     font-weight: 500;
-    margin-bottom: 1.3rem;
+    margin-bottom: 1.1rem;
+    font-size: 1.1rem;
 }
 
 .container h1 {
-    margin-bottom: 1.5rem;
-    font-size: 2.1rem;
+    margin-bottom: 0.7rem;
+    font-size: 1.5rem;
     font-weight: 800;
 }
 
 .container p {
     color: var(--secondary-text);
     max-width: 500px;
-    font-size: 1.4rem;
-    margin-bottom: 1.5rem;
-    line-height: 1.8rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    line-height: 1.5rem;
+    font-weight: 500;
+    letter-spacing: 0.2px;
 }
 
 .container #label,
@@ -76,12 +81,12 @@ h1 {
 }
 
 .card-profile img {
-    width: 40px;
-    height: 40px;
+    width: 32px;
+    height: 32px;
 }
 
 .card-profile span {
     font-weight: 800;
-    font-size: 1.3rem;
-    margin-left: 1rem;
+    font-size: 1.1rem;
+    margin-left: 0.8rem;
 }
