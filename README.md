@@ -24,7 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Blog preview card screenshot](https://ibb.co/v4VYLBLL)
+<img width="1911" height="908" alt="blog preview" src="https://github.com/user-attachments/assets/f525f286-a08a-44f5-a989-3db5f386b7dc" />
+
 
 ### Links
 
