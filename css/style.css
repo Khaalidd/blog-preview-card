@@ -30,7 +30,6 @@ body {
     flex-direction: column;
     box-shadow: 10px 10px 0px 0px black;
     max-width: 384px;
-    max-height: 522px;
 }
 
 .container img {
@@ -38,7 +37,7 @@ body {
     border-radius: 24px;
 }
 
-.container #label {
+.container .label {
     background-color: var(--bg-color);
     width: fit-content;
     padding: 8px 16px;
@@ -64,14 +63,14 @@ body {
     max-width: 500px;
     font-size: 1rem;
     margin-bottom: 1rem;
-    line-height: 1.5rem;
+    line-height: 1.5;
     font-weight: 500;
     letter-spacing: 0.2px;
 }
 
-.container #label,
-h3,
-h1 {
+.container .label,
+.container h3,
+.container h1 {
     color: var(--primary-text);
 }
 
